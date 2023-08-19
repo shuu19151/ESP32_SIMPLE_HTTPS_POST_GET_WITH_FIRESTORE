@@ -1,0 +1,8 @@
+build/
+.vscode/
+sdkconfig
+sdkconfig.ci
+sdkconfig.ci.dynamic_buffer
+sdkconfig.ci.srv_ses_tkt
+sdkconfig.defaults
+sdkconfig.old
